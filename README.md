@@ -39,11 +39,6 @@ This project converts your router into a VPN gateway using Surfshark, OpenVPN, a
 - [`firewall-start.sh`](./firewall-start.sh) – Optional startup kill switch
 - [`router-checklist.md`](./router-checklist.md) – Quick step-by-step checklist
 
----
-
-## 📷 Screenshot (optional)
-
-*Include screenshots here later of `Status > OpenVPN` showing a successful connection.*
 
 ---
 
