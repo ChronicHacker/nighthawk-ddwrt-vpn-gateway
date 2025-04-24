@@ -59,7 +59,7 @@ This project converts your router into a VPN gateway using Surfshark, OpenVPN, a
 
 - [Full Setup Guide on Chr0nicHacker.com](https://www.chronichacker.com/nighthawk-ddwrt-vpn-gateway/)
 - [DD-WRT Firmware Downloads](https://dd-wrt.com/)
-- [Surfshark Manual Setup Guide](https://support.surfshark.com/hc/en-us/articles/360038992494-DD-WRT-setup)
+- [Surfshark Guide](https://support.surfshark.com/)
 
 ---
 
